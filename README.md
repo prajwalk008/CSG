@@ -1,5 +1,5 @@
 
-# Project Title
+# Code Set Go
 
 Code set go is a platform to learn and develope your coding skills!
 
